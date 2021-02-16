@@ -5,7 +5,7 @@ draft: false
 featured: false
 image:
   filename: timthumb.jpg
-  focal_point: Smart
+  focal_point: Top
   preview_only: false
 ---
 <!--StartFragment-->
